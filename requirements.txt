@@ -2,8 +2,6 @@ keras==2.12.0
 tensorflow==2.12.0
 streamlit-authenticator==0.2.1
 Pillow==9.4.0
-opencv-python-headless
 matplotlib==3.7.1
 streamlit-authenticator==0.2.1
 torchvision==0.15.1
-opencv-4.5.2
